@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Mic, MicOff, Monitor, MoreVertical } from "lucide-react";
+import { MicOff, Monitor, MoreVertical } from "lucide-react";
 
 interface Participant {
   id: number;
